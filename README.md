@@ -3,7 +3,7 @@
 🔭 I’m currently working as an Assistant Data Manager <br>
 🌱 I’m currently learning Advanced Data Analytics & Automation<br>
 💬 Ask me anything about Python, SQL, R, Power BI, or Data Processing<br>
-    My website: https://omkar1105.github.io/MyPortfolio/
+    My website: https://omkar1105.github.io/MyPortfolio/ <br>
 📫 How to reach me: omkarpatilop1105@gmail.com<br>
 ⚡ Fun fact: I love uncovering insights hidden in data! 🚀<br>
   
