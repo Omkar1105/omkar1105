@@ -24,7 +24,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,gmail,mysql,py,github,git,ai,vscode,excel,PowerBI,Minitab,linux,r,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,gmail,mysql,py,github,git,ai,vscode,linux,r,&perline=5)](https://skillicons.dev)
 
 ![Omkar Patil GitHub stat](https://github-readme-stats.vercel.app/api?username=Omkar1105&show_icons=true&theme=dark)
 
