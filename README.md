@@ -1,10 +1,10 @@
  <h1 align="center">Hi 👋, I'm Omkar Dinesh Patil</h1>
 
-🔭 I’m currently working as an Assistant Data Manager
-🌱 I’m currently learning Advanced Data Analytics & Automation
-💬 Ask me anything about Python, SQL, R, Power BI, or Data Processing
-📫 How to reach me: omkarpatilop1105@gmail.com
-⚡ Fun fact: I love uncovering insights hidden in data! 🚀
+🔭 I’m currently working as an Assistant Data Manager <br>
+🌱 I’m currently learning Advanced Data Analytics & Automation<br>
+💬 Ask me anything about Python, SQL, R, Power BI, or Data Processing<br>
+📫 How to reach me: omkarpatilop1105@gmail.com<br>
+⚡ Fun fact: I love uncovering insights hidden in data! 🚀<br>
   
 ### Connect with me:
 <div id="badges">
@@ -24,7 +24,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=SPSS,mysql,python,github,git,vscode,Excel,PowerBi,Minitab,Linux,R,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,gmail,mysql,py,github,git,ai,vscode,excel,PowerBI,Minitab,linux,r,&perline=5)](https://skillicons.dev)
 
 ![Omkar Patil GitHub stat](https://github-readme-stats.vercel.app/api?username=Omkar1105&show_icons=true&theme=dark)
 
